@@ -1,3 +1,14 @@
+------------------------------
+Authors : RAM
+Due to quite substantial public demand to our project, which
+frankly is quite shiity, we have decided to revamp our entire code.
+This was basically a time when we did not know bash[seriously!]
+
+That's all, folks.
+------------------------------
+
+
+
 !!!! Project Complete !!!
 
 
